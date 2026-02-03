@@ -609,7 +609,7 @@ img {
     border-color: #31d0aa;
 }
 .footer-subscribe-btn {
-    min-height: 40px;
+    
     padding: 8px 24px;
 
     display: flex;
@@ -913,4 +913,13 @@ img {
 .footer-subscribe {
     margin-left: auto;
     
+}
+.footer-container {
+    display: flex;
+    align-items: baseline;
+    gap: 120px;
+}
+
+.footer-subscribe {
+    margin-left: auto;
 }
